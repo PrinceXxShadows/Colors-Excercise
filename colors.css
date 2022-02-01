@@ -21,4 +21,14 @@
   p {background-color: violet;
     color:hsl(0, 100%, 50%)
   }
- 
+  li:first-child {
+    color: hotpink;
+    border: 5px solid;
+    border-color: green;
+}
+
+li:last-child {
+    background-color: peachpuff;
+    border: 5px solid;
+    border-color: green;
+}
