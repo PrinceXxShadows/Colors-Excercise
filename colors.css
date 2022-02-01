@@ -1,0 +1,24 @@
+ h1 {
+     background-color: red;
+     color:violet
+     
+ }
+ h2{ background-color: orange;
+     color: rgb(78, 7, 158);
+ }
+ h3{background-color: yellow;
+     color:#0000ff
+ }
+ h4 {background-color: green;
+     color:#7af508fd
+ }
+ h5 { background-color: blue;
+     color:#ff0
+ }
+ h6 {background-color: indigo;
+     color:rgba(100%, 64.7%, 0%, 1)
+    }
+  p {background-color: violet;
+    color:hsl(0, 100%, 50%)
+  }
+ 
